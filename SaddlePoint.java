@@ -1,3 +1,4 @@
+// minimum in row and maximum in column
 import java.util.*;
 class SaddlePoint
 {
